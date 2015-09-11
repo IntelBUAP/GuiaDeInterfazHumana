@@ -1,3 +1,3 @@
 # GuiaDeInterfazHumana
 Traducción de HIG de GNOME.
-Adrian
+Adrian Perez
